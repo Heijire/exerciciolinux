@@ -4,5 +4,6 @@ public class Main{
 	public static void main(String[]args) {
 		DistroController dist = new DistroController() ;
 		dist.exibeDistro();
+		System.out.println("test windows");
 	}
 }
